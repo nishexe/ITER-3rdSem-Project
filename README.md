@@ -15,3 +15,6 @@ Database Management System using Java Swing GUI
 
 
 ![5  Show Database](https://user-images.githubusercontent.com/61022113/111426803-36e86a00-871b-11eb-954a-78a07af3b249.png)
+
+
+![6  Add An Entry](https://user-images.githubusercontent.com/61022113/111426874-4bc4fd80-871b-11eb-83eb-26cd7cea6f7c.png)
