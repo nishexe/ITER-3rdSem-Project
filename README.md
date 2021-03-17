@@ -9,3 +9,6 @@ Database Management System using Java Swing GUI
 
 
 ![3  Admin Login Portal](https://user-images.githubusercontent.com/61022113/111059770-1c658500-84be-11eb-9bfa-6e3fc036f319.png)
+
+
+![4  Admin Functions](https://user-images.githubusercontent.com/61022113/111426757-23d59a00-871b-11eb-989c-98b033cf3176.png)
