@@ -21,3 +21,6 @@ Database Management System using Java Swing GUI
 
 
 ![7  Delete An Entry](https://user-images.githubusercontent.com/61022113/111426925-5aabb000-871b-11eb-9b45-688330111f71.png)
+
+
+![8  Modify An Entry](https://user-images.githubusercontent.com/61022113/111426958-65fedb80-871b-11eb-8ff8-26adf02c8e7f.png)
